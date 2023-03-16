@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap : 2rem;
+  margin: 40px;
+  justify-content: center;
+}
+.cart-value{
+  display: flex;
+  justify-content: end;
+  margin: 20px;
+  font-size: larger;
+  padding-left: 50px;
+}
+
+.nav{
+ gap:2rem;
+ display: flex;
+ flex: auto;
+
+}
+.Badge{
+  height: 20px;
+  
+}
