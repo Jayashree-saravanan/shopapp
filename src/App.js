@@ -26,7 +26,6 @@ function App() {
       "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
       productName: "Sale Item",
       price: 70000,
-      rating: 80,
       rating:"⭐⭐⭐⭐",
     },
     {
@@ -85,7 +84,7 @@ function App() {
 
       <header className="bg-dark py-5">
         <div className="container px-4 px-lg-5 my-5">
-          <div className="text-center  text-white">
+          <div className="text-center">
             <h1 className="display-4 fw-bolder">
               Shop in style
             </h1>
